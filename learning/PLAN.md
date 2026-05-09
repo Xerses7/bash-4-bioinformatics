@@ -61,30 +61,35 @@ La difficoltà cresce in modo coordinato: i primi moduli usano file FASTA sempli
 - **Bio:** Costruire funzioni per operazioni comuni: contare sequenze, estrarre header, validare formato FASTA, calcolare statistiche
 - **File:** [module-06-funzioni-tools.md](module-06-funzioni-tools.md)
 - **Esercizio:** [exercises/ex-06-funzioni-tools.md](exercises/ex-06-funzioni-tools.md)
+- **Stato:** 📝 Da completare
 
 ### Modulo 7: Script robusti | Pipeline da riga di comando
 - **BASH:** Shebang, argomenti posizionali, getopts, exit code, usage message
 - **Bio:** Scrivere script con interfaccia CLI professionale — opzioni --input, --output, --min-length — come i tool bioinformatici reali
 - **File:** [module-07-script-pipeline.md](module-07-script-pipeline.md)
 - **Esercizio:** [exercises/ex-07-script-pipeline.md](exercises/ex-07-script-pipeline.md)
+- **Stato:** 📝 Da completare
 
 ### Modulo 8: Stringhe e array | Manipolazione diretta di sequenze
 - **BASH:** Manipolazione di stringhe, array indicizzati e associativi
 - **Bio:** Parsing FASTA in puro BASH, calcolo GC content, reverse complement, composizione nucleotidica
 - **File:** [module-08-stringhe-sequenze.md](module-08-stringhe-sequenze.md)
 - **Esercizio:** [exercises/ex-08-stringhe-sequenze.md](exercises/ex-08-stringhe-sequenze.md)
+- **Stato:** 📝 Da completare
 
 ### Modulo 9: grep, sed, awk | Parsing di formati bioinformatici
 - **BASH:** grep con regex, sed per trasformazioni, awk per file tabellari
 - **Bio:** Parsing di GFF3, BED, BLAST tabular output (formato -outfmt 6), estrazione di annotazioni genomiche
 - **File:** [module-09-grep-sed-awk-formati.md](module-09-grep-sed-awk-formati.md)
 - **Esercizio:** [exercises/ex-09-grep-sed-awk-formati.md](exercises/ex-09-grep-sed-awk-formati.md)
+- **Stato:** 📝 Da completare
 
 ### Modulo 10: Best practice e debugging | Pipeline production-ready
 - **BASH:** set -euo pipefail, logging, trap, shellcheck, test degli script
 - **Bio:** Pipeline completa FASTA → QC → filtraggio → analisi → report, robusta e riproducibile
 - **File:** [module-10-best-practice-pipeline.md](module-10-best-practice-pipeline.md)
 - **Esercizio:** [exercises/ex-10-best-practice-pipeline.md](exercises/ex-10-best-practice-pipeline.md)
+- **Stato:** 📝 Da completare
 
 ---
 
